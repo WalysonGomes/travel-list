@@ -1,8 +1,8 @@
-Travel list:
+#Travel list:
 
 ![travel list gif](./assets/Timeline 1.gif)
 
-Screenshots:
+#Screenshots:
 
 ![travel list screeeshot](./assets/Screenshot 2024-09-26 200940.png)
 
