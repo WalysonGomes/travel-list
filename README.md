@@ -1,8 +1,8 @@
-#Travel list:
+# Travel list:
 
 ![travel list gif](./assets/gif.gif)
 
-#Screenshots:
+# Screenshots:
 
 ![travel list screeeshot](./assets/image1.png)
 
